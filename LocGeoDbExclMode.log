@@ -1,0 +1,11 @@
+2018-06-22 10:09:36,819 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Inciado a execucao do script
+2018-06-22 10:09:37,344 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Privilegios configurado
+2018-06-22 10:09:37,345 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Criando arquivo de conexao
+2018-06-22 10:09:49,158 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Arquivo de conexao criado
+2018-06-22 10:09:49,686 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Usuario desconectado
+2018-06-22 10:09:49,687 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Bloqueio de conexao do banco
+2018-06-22 10:09:50,161 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Removendo privilegios adiconais
+2018-06-22 10:09:50,161 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Aguardando comando para desbloquear sessoes
+2018-06-22 10:09:56,954 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Conexoes do banco liberadas
+2018-06-22 10:09:56,956 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Removendo o arquivo de conexao
+2018-06-22 10:09:58,776 TI-M227 LocGeoDbExclMode marcos.nexa banco2   4352     Finalizado com sucesso
