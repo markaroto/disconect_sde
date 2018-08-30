@@ -104,7 +104,7 @@ try:
 			sqlrun('ALTER USER SDE DEFAULT ROLE ALL;',teste)
 			logger.info('Privilegios removidos',extra=f_temp)
 	else:
-		logger.info('TSname nao configurado ou instancia indisponivel',extra=f_temp)
+		logger.info('tnsname nao configurado ou instancia indisponivel',extra=f_temp)
 		raw_input("A instancia " + instancia + " nao esta disponivel ou tnsname da instancia nao configurado. ")
 except Exception as t:
 	print(t)
